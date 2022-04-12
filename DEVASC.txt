@@ -1,0 +1,7 @@
+
+I am on way to passing DevNet exam
+
+
+
+I am beginning to understand GIT
+this text was added originally while in the feature branch
