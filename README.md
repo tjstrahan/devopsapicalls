@@ -1,4 +1,4 @@
-# devasc-study-team
+# devops-apicalls
 This was a practical activity undertaken as part of the Cisco DevNet Associate qualification. It is a piece of Python code illustrating how to use multiple API calls
 to automate exisiting Cisco platforms in this case Webex. The code creates a message within a Webex room which prints the name of a city to the message board of the 
 room. Based on this information the code takes the name and calls the Mapquest API to get the GPS co-ordinates of the city in question and once it has the
